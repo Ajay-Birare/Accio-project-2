@@ -184,3 +184,6 @@ tfoot {
 tfoot td {
     border-right: 2px solid #1e1e1e;
 }
+::placeholder{
+    color: #FCAF02;
+}
